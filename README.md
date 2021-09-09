@@ -13,17 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Abhay and oO is :raised_eyebrow: &nbsp; &nbsp; &nbsp; 👋
+### Hi there, &nbsp;👋&nbsp; I'm Abhay and oO is :raised_eyebrow:
 
-## I'm a Computer enthusiast, Computer Science Student, and Learner!!
+## I'm a Computer enthusiast, Information Technology Student, and Learner!!
 
 ### 👨🏻‍💻 About Me
 - 🎓 I'm an Information Security Postgraduate student at Motilal Nehru National Institute of Technology, Allahabad (MNNIT).
 - 🌱 I’m currently learning everything 🤣. I'm on track for enhancing my knowledge about Data Structures and Algorithms and coding skills in C/C++.
-- 🥅 Goals: Learning Javascript, CSS3, Python and ReactJS.
-- 💡 Interested in working alongside like minded people enthusiastic about FullStack Development, Software Development or developing cutting edge tech.
+- 🥅 Goals: Learn JavaScript, CSS3, Python and ReactJS.
+- 💡 Interested in working alongside like minded people enthusiastic about Full Stack Development, Software Development or developing cutting edge tech.
 - ⚡ My hobbies include playing computer games, listening music, love to draw and watch anime.
-- 📫 You can reach out to me via email at abhay229198@gmail.com.
 
 ### 🛠 Languages and Tools:
 
@@ -41,7 +40,7 @@ Here are some ideas to get you started:
 ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 
 ---
-### ⚙️ GitHub Stats :bar_chart:
+### ⚙️ GitHub Stats:
 
 <p align="center">
 <a href="https://github.com/abhayoO">
@@ -51,10 +50,12 @@ Here are some ideas to get you started:
 </p>
 
 [![Abhay's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhayoO&theme=react-dark)](https://github.com/abhayoO)
+
 ---
 
-### :handshake: Connect with me:
+### Connect with me :handshake:
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/abhayoO)&nbsp; &nbsp; 
+[![GitHub](https://img.shields.io/badge/-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/abhayoO)&nbsp; &nbsp; 
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhay-vishwakarma/)&nbsp; &nbsp; 
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhay229198@gmail.com)
+<!--[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/abhayoO)&nbsp; &nbsp; -->
